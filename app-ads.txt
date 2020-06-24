@@ -1,5 +1,6 @@
 google.com, pub-7634940422493195, DIRECT, f088c47fec942fa0
 google.com, pub-3236006391689188, DIRECT, f08c47fec0942fa0
+google.com, pub-6818774922664858, DIRECT, f08c47fec0942fa0
 startapp.com, 188563722, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 admanmedia.com, 13, RESELLER
