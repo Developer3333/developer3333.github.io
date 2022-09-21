@@ -82,7 +82,6 @@ aralego.com, par-8A2ABD874A6D6BA3F38D43B8EA2B37D, DIRECT
 
 
 ironsrc.com, [288699], Direct
-Remember to replace [288699]
 
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
